@@ -1,0 +1,24 @@
+# Ignorar dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# Cache Angular
+.angular/cache/
+
+# Outros temporários
+.DS_Store
